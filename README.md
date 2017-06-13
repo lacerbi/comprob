@@ -1,5 +1,8 @@
 # Compatibility probability of measurements across experiments (*comprob*)
 
+`comprob` computes the *compatibility probability* of a set of measurements taken in different conditions (e.g., different experiments), for different subjects.
+
+The method is described in Acerbi et al. (2017).
 
 ## Reference
 
